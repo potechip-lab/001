@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ニュースモニタリング</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    /* ── トークン ────────────────────────────── */
+    :root {
+      --navy:      #1A2744;
+      --navy-mid:  #243560;
+      --gold:      #C9972E;
+      --gold-lt:   #E8B84B;
+      --bg:        #EFF1F7;
+      --surface:   #FFFFFF;
+      --border:    #D8DCE8;
+      --text:      #1A1A2E;
+      --text-sub:  #5E6480;
+      --radius:    8px;
+      --shadow:    0 2px 8px rgba(26,39,68,.09);
+
+      /* カテゴリカラー（最大5色） */
+      --c0: #1A6B9E;
+      --c1: #1E7A5A;
+      --c2: #B07D1A;
+      --c3: #C03636;
+      --c4: #6B4FA0;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Noto Sans JP', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── ヘッダー ────────────────────────────── */
+    header {
+      background: var(--navy);
+      color: #fff;
+    }
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 26px 24px 22px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 16px;
+    }
+    .site-label {
+      font-size: .72rem;
+      font-weight: 400;
+      letter-spacing: .1em;
+      color: rgba(255,255,255,.45);
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .site-name {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 1.55rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+      line-height: 1;
+    }
+    .updated-badge {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      font-size: .72rem;
+      color: rgba(255,255,255,.45);
+      white-space: nowrap;
+    }
+    .badge-dot {
+      width: 7px; height: 7px;
+      background: var(--gold-lt);
+      border-radius: 50%;
+      flex-shrink: 0;
+      animation: pulse 2.2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%,100% { opacity:1; }
+      50%      { opacity:.25; }
+    }
+
+    /* ── フィルタバー ────────────────────────── */
+    .filter-bar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 6px rgba(0,0,0,.05);
+    }
+    .filter-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .filter-inner::-webkit-scrollbar { display: none; }
+    .filter-btn {
+      padding: 13px 18px;
+      font-family: 'Noto Sans JP', sans-serif;
+      font-size: .875rem;
+      font-weight: 500;
+      color: var(--text-sub);
+      background: none;
+      border: none;
+      border-bottom: 3px solid transparent;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color .12s, border-color .12s;
+    }
+    .filter-btn:hover  { color: var(--text); }
+    .filter-btn.active {
+      color: var(--navy);
+      border-bottom-color: var(--gold);
+      font-weight: 700;
+    }
+
+    /* ── メインコンテンツ ─────────────────────── */
+    .main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 36px 24px 48px;
+    }
+
+    /* カテゴリセクション */
+    .cat-section { margin-bottom: 52px; }
+    .cat-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .cat-bar {
+      width: 4px; height: 22px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+    .cat-title {
+      font-family: 'Noto Serif JP', serif;
+      font-size: 1.15rem;
+      font-weight: 700;
+    }
+    .cat-count {
+      font-size: .72rem;
+      color: var(--text-sub);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 2px 10px;
+    }
+
+    /* キーワードグループ */
+    .kw-group { margin-bottom: 28px; }
+    .kw-label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+    .kw-tag {
+      display: inline-block;
+      padding: 3px 11px;
+      border-radius: 4px;
+      font-size: .78rem;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: .02em;
+    }
+    .kw-count {
+      font-size: .72rem;
+      color: var(--text-sub);
+    }
+
+    /* 記事グリッド */
+    .articles-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 12px;
+    }
+
+    /* 記事カード */
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      display: flex;
+      overflow: hidden;
+      transition: box-shadow .15s, transform .15s;
+    }
+    .article-card:hover {
+      box-shadow: 0 6px 20px rgba(26,39,68,.14);
+      transform: translateY(-2px);
+    }
+    .card-accent { width: 4px; flex-shrink: 0; }
+    .card-body   { padding: 14px 16px; flex: 1; min-width: 0; }
+    .card-title {
+      display: block;
+      font-size: .875rem;
+      font-weight: 500;
+      line-height: 1.55;
+      color: var(--text);
+      text-decoration: none;
+      margin-bottom: 10px;
+      /* 2行で省略 */
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-title:hover { color: var(--navy); text-decoration: underline; }
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: .70rem;
+      color: var(--text-sub);
+    }
+    .card-source { font-weight: 700; }
+
+    /* 空・エラー・ローディング */
+    .empty-state, .error-state {
+      padding: 40px;
+      text-align: center;
+      background: var(--surface);
+      border: 1px dashed var(--border);
+      border-radius: var(--radius);
+      color: var(--text-sub);
+      font-size: .9rem;
+      line-height: 1.7;
+    }
+    .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 40vh;
+      gap: 16px;
+      color: var(--text-sub);
+      font-size: .9rem;
+    }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--navy);
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* フッター */
+    footer {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 24px 40px;
+      font-size: .72rem;
+      color: var(--text-sub);
+      border-top: 1px solid var(--border);
+    }
+
+    /* レスポンシブ */
+    @media (max-width: 600px) {
+      .header-inner  { flex-direction: column; align-items: flex-start; }
+      .site-name     { font-size: 1.25rem; }
+      .articles-grid { grid-template-columns: 1fr; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .badge-dot, .spinner, .article-card { animation: none; transition: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ヘッダー -->
+<header>
+  <div class="header-inner">
+    <div>
+      <div class="site-label">News Monitoring</div>
+      <div class="site-name" id="uni-name">読み込み中...</div>
+    </div>
+    <div class="updated-badge">
+      <div class="badge-dot"></div>
+      <span id="updated-at">取得中...</span>
+    </div>
+  </div>
+</header>
+
+<!-- フィルタ -->
+<nav class="filter-bar">
+  <div class="filter-inner" id="filter-inner">
+    <button class="filter-btn active" data-cat="all">すべて</button>
+  </div>
+</nav>
+
+<!-- コンテンツ -->
+<main class="main" id="main">
+  <div class="loading">
+    <div class="spinner"></div>
+    <span>記事を読み込み中...</span>
+  </div>
+</main>
+
+<footer id="footer" hidden>
+  毎朝自動更新（データソース: Google ニュース / Google トレンド）
+</footer>
+
+<script>
+  // カテゴリカラー
+  const CAT_COLORS = [
+    getComputedStyle(document.documentElement).getPropertyValue('--c0').trim(),
+    getComputedStyle(document.documentElement).getPropertyValue('--c1').trim(),
+    getComputedStyle(document.documentElement).getPropertyValue('--c2').trim(),
+    getComputedStyle(document.documentElement).getPropertyValue('--c3').trim(),
+    getComputedStyle(document.documentElement).getPropertyValue('--c4').trim(),
+  ];
+
+  function color(idx) {
+    return CAT_COLORS[idx % CAT_COLORS.length];
+  }
+
+  function fmtDate(str) {
+    if (!str) return '';
+    try {
+      return new Date(str).toLocaleDateString('ja-JP', {
+        timeZone: 'Asia/Tokyo', month: 'short', day: 'numeric'
+      });
+    } catch { return ''; }
+  }
+
+  function fmtUpdated(iso) {
+    if (!iso) return '不明';
+    try {
+      return new Date(iso).toLocaleString('ja-JP', {
+        timeZone: 'Asia/Tokyo',
+        year: 'numeric', month: 'long', day: 'numeric',
+        hour: '2-digit', minute: '2-digit'
+      }) + ' 更新';
+    } catch { return iso; }
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+            .replace(/"/g,'&quot;');
+  }
+
+  function renderAll(data, activeFilter) {
+    const categories = data.categories || {};
+    const catNames   = Object.keys(categories);
+    let html = '';
+
+    catNames.forEach((catName, catIdx) => {
+      if (activeFilter !== 'all' && catName !== activeFilter) return;
+      const col      = color(catIdx);
+      const keywords = categories[catName];
+      const total    = Object.values(keywords).reduce((s, a) => s + a.length, 0);
+
+      html += `
+        <section class="cat-section" data-cat="${escHtml(catName)}">
+          <div class="cat-header">
+            <div class="cat-bar" style="background:${col}"></div>
+            <h2 class="cat-title">${escHtml(catName)}</h2>
+            <span class="cat-count">${total} 件</span>
+          </div>`;
+
+      Object.entries(keywords).forEach(([kw, articles]) => {
+        if (!articles.length) return;
+        html += `
+          <div class="kw-group">
+            <div class="kw-label">
+              <span class="kw-tag" style="background:${col}">${escHtml(kw)}</span>
+              <span class="kw-count">${articles.length} 件</span>
+            </div>
+            <div class="articles-grid">`;
+
+        articles.forEach(a => {
+          html += `
+            <div class="article-card">
+              <div class="card-accent" style="background:${col}"></div>
+              <div class="card-body">
+                <a class="card-title" href="${escHtml(a.link)}" target="_blank" rel="noopener noreferrer">
+                  ${escHtml(a.title)}
+                </a>
+                <div class="card-meta">
+                  <span class="card-source">${escHtml(a.source || '―')}</span>
+                  <span>${fmtDate(a.pubDate)}</span>
+                </div>
+              </div>
+            </div>`;
+        });
+
+        html += `</div></div>`;
+      });
+
+      html += `</section>`;
+    });
+
+    document.getElementById('main').innerHTML =
+      html || '<div class="empty-state">このカテゴリの記事はありません。</div>';
+  }
+
+  async function init() {
+    try {
+      const res = await fetch('data.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+
+      // ヘッダー更新
+      const uniName = data.university_name || 'ニュースモニタリング';
+      document.getElementById('uni-name').textContent    = uniName;
+      document.getElementById('updated-at').textContent  = fmtUpdated(data.updated_at);
+      document.title = `ニュースモニタリング — ${uniName}`;
+
+      // フィルタボタン生成
+      const filterInner = document.getElementById('filter-inner');
+      Object.keys(data.categories || {}).forEach(catName => {
+        const btn = document.createElement('button');
+        btn.className    = 'filter-btn';
+        btn.dataset.cat  = catName;
+        btn.textContent  = catName;
+        filterInner.appendChild(btn);
+      });
+
+      // フィルタ切り替え
+      let activeFilter = 'all';
+      filterInner.addEventListener('click', e => {
+        const btn = e.target.closest('.filter-btn');
+        if (!btn) return;
+        filterInner.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeFilter = btn.dataset.cat;
+        renderAll(data, activeFilter);
+      });
+
+      renderAll(data, activeFilter);
+      document.getElementById('footer').hidden = false;
+
+    } catch (err) {
+      document.getElementById('main').innerHTML = `
+        <div class="error-state">
+          <strong>データを読み込めませんでした。</strong><br>
+          初回は GitHub Actions を手動で実行して data.json を生成してください。<br>
+          <small style="opacity:.6">${err.message}</small>
+        </div>`;
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>

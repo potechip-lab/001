@@ -376,6 +376,10 @@
 
       Object.entries(keywords).forEach(([kw, articles]) => {
         if (!articles.length) return;
+        // 新しい順に並び替え
+        articles = [...articles].sort((a, b) =>
+          new Date(b.pubDate || 0) - new Date(a.pubDate || 0)
+        );
         html += `
           <div class="kw-group">
             <div class="kw-label">

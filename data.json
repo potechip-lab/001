@@ -1,14 +1,44 @@
 {
-  "updated_at": "2026-10-12T00:22:41.579321+00:00",
+  "updated_at": "2026-10-13T02:29:24.219465+00:00",
   "university_name": "中央大学",
   "categories": {
     "大学全般": {
       "中央大学": [
         {
+          "title": "中央大学・藤原正和監督「うまく仕上げてやれなかったこちらの技量のなさ」優勝狙うも5位に終わる【出雲駅伝レース後取材】 - 文化放送",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veTd1b0JJaldZQnVKOUVoM3ZwTU1LNnlXbDVLdEl2MVd0OEVCVmJqbFc0cDkyMTljMDJwT0RxU00zSlo2SWdVZlVEdFR5OFFPcENmdFRB?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 08:11:28 GMT",
+          "source": "文化放送"
+        },
+        {
+          "title": "陸上・駅伝 - 中央大学・藤田大智主将 前回の伊勢路後に固まった覚悟、駅伝優勝のカギは「単独走」 - 4years",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50Q0NoY2llWXoxYk82Nkg3MEhQd3ZZWDBzOERtNGVJeTh2RWVXSGxkalNfaTdzajh5OG1ZdXpYNW5ZdDNwNHJCNUI1cmpPU0dYWTJz?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 05:51:11 GMT",
+          "source": "4years"
+        },
+        {
+          "title": "アメフト - 中央大QB小野一真 明治戦でパス224ydにラン111yd、米国IMGで過ごした3年間が土台に - 4years",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xTnVha1d5dkhBdTB3R2JabjEzQWdBRnpYMFVQc2x5Z3ZsSVJvbGJiS25XR0dvVzNJS0hEQmNPRVF1Uk9OanpHdm00c25vSWZ0LUZJ?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 23:03:45 GMT",
+          "source": "4years"
+        },
+        {
+          "title": "中央大学・藤原監督「出雲は勝ったことがないのでそのゼロを1にしたい」【出雲駅伝前日囲み取材】 - au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTlVsMkRSbTFHVVQtYmRESXpqVTlkd3lLME12d215Ql9qLXBlU3ItN0FRM0pkUzRxYTJZZ1huMmV6MDFMZ2Z1MnMxYWR6d3dxM29NOGhJdTJZNUM5WEwzYTVpRHg4a3g1aGtHQlFn?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 11:16:00 GMT",
+          "source": "au Webポータル"
+        },
+        {
           "title": "箱根駅伝で総合優勝するために…カギは復路の「単独走」 個性派集団を束ねる中央大学主将が語った手応え（4years.） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tWmsya1JXVkRiLU8tdUtLRVRYVmppR2VPYnZUbi1nRFV4bUZZUG9KYTk5d193c1pvS0o1NGE2LTNFVTk4STJ3MmFhb2J4bkd0bW9pdFFiVUpmR2lXTXRSQWU3OGRKM0d6RUxnNDU2b1ZYRm95Z19UNDlQeVhHYnM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1pGeE5QU1g4TWZjWVVScXFPTnY2NHVqa1VETGhRUEV6bHNSbHNCYzdtcnhNWjcxcUItODd1LXJwZFE3N3VOa0dxVmdNVC01amlBMXp3cWFxY1dJdjMtTzBIWFJqbGJpNkZYclhIZUpzRlcwc0xvMVE1UXQtN21YTjN3bkFqSG5M?oc=5",
           "pubDate": "Sat, 10 Oct 2026 03:19:20 GMT",
           "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "「目標は優勝です」中央大学・藤原監督「3区三宅に期待していただければ」【出雲駅伝前日会見】 - 文化放送",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5adEJNU3JoaVlncVBLWG5ISFd2ak9TRDBLVXdyMTNJckdBNGJfSUltNXRfYThDeEV2Q1pEWkFxNFhXa0Y5bmI2N0cwM2IzcUhvdkU2TTRB?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 12:44:45 GMT",
+          "source": "文化放送"
         },
         {
           "title": "中央大学・藤原監督「出雲は勝ったことがないのでそのゼロを1にしたい」【出雲駅伝前日囲み取材】 - 文化放送",
@@ -21,36 +51,6 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9scE1QbFY3a1ZCcDB0SDk2OURLRE1zc2FwMGNPUXJrblR1dVh2NGlJUUViS3VON29RS0k4UDZjMWtZTmIzZkhZLUh4dG54SlVMdjl6cEh2c3J3MHJKMVl3blFGT0h6SEpaYkRnd3BR?oc=5",
           "pubDate": "Sun, 11 Oct 2026 12:31:00 GMT",
           "source": "au Webポータル"
-        },
-        {
-          "title": "「目標は優勝です」中央大学・藤原監督「3区三宅に期待していただければ」【出雲駅伝前日会見】 - 文化放送",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5adEJNU3JoaVlncVBLWG5ISFd2ak9TRDBLVXdyMTNJckdBNGJfSUltNXRfYThDeEV2Q1pEWkFxNFhXa0Y5bmI2N0cwM2IzcUhvdkU2TTRB?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 18:35:50 GMT",
-          "source": "文化放送"
-        },
-        {
-          "title": "アメフト - 中央大RB山口典誠 おじは日大フェニックス牛若丸 2世名乗る3年目、明治大に初勝利 - 4years",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPZDFfY09CanBoUE9uaDVPLXliaURTRzA4d1lsSFRaeXRRUHBJNHlvUGNRbFlJSHlSNXExWkVxM19lT3Z1ZUJEX1lUSDFhbFRJbmtV?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 04:32:47 GMT",
-          "source": "4years"
-        },
-        {
-          "title": "中央大学・藤原監督「出雲は勝ったことがないのでそのゼロを1にしたい」【出雲駅伝前日囲み取材】 - au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yTlVsMkRSbTFHVVQtYmRESXpqVTlkd3lLME12d215Ql9qLXBlU3ItN0FRM0pkUzRxYTJZZ1huMmV6MDFMZ2Z1MnMxYWR6d3dxM29NOGhJdTJZNUM5WEwzYTVpRHg4a3g1aGtHQlFn?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 11:16:00 GMT",
-          "source": "au Webポータル"
-        },
-        {
-          "title": "【（2026年10月9日）更新】茗荷谷キャンパス学生食堂のお知らせ（営業日程・メニュー） | - 中央大学",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84cTVvNDVpYVpWZ3JMamZPSWJNODgwUFI1ejdxMjAzTmpVTXprb3ZmTjRoM3AtQUpBd0t6YXctU19Oa1dOMzhlejN0Ri1HSHFZWmpjUFphZkJYV0hEMnZpblQ3RE44Zw?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-          "source": "中央大学"
-        },
-        {
-          "title": "出雲駅伝２０２６、エントリー確定…スタートを前に区間変更 - 読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRmhPdEcwNEVSLTNEUmNxOTZ2RUFaQ2dZRG1mSGpFU0p6UERNaE45N0Nzc0RrRjNDNXB5WFF3SlB1RzhJUG81Wmk3ekdGRklOeFQ5R0o4SzA0Q3VEc1JmRjFBdktWRnBQek9DTWphdWZId1JraVE?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 21:00:48 GMT",
-          "source": "読売新聞"
         }
       ],
       "中央大学 入試": [
@@ -67,28 +67,16 @@
           "source": "アガルートアカデミー"
         },
         {
-          "title": "２０２７年度私立大学入試 慶應経済で小論文休止、中央大学はスポーツ情報学部新設 - 月刊私塾界",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HX1R0UGVIUEJ1dXRqRFZ6b2FJZm9fRmE3c1BRS3EzUmtlR3JDOGhCcUlNZDJ0WlBBbllpRlNZWTh4WjFSLXlmRWdrN2FUdnY0Y2c?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 09:00:39 GMT",
-          "source": "月刊私塾界"
-        },
-        {
           "title": "中央大学文学部の魅力をさらに深掘り！「文学部限定オープンキャンパス」開催のお知らせ（8/4） | - 中央大学",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15UWFJRHNLakNud0t4NldFQ3hkdkxpdzBsUFg1TzNiem1uMnBvLWFiYmxTSERFNWlYSGM4aUhSVmJhNnRqVWRVSVpWMzI1ZnFLcUpzalV4Ync5YjJ4anlHN21zZ3FFZ2xhVHIxclVSQ3Rwcnk2TlpDNnpQRTVFZw?oc=5",
           "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
           "source": "中央大学"
         },
         {
-          "title": "【大学受験2028】早稲田・中央など私立大の入試変更点一覧 - リセマム",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlYTVuMFN4SHVrMVRmREd4SGpGSWNHMUZrN2hHN3d6eXFNMzg3bHlURm5FYzVMdWUyZ0tSVWJmcUlxaS1GTnJnQlg5QklmcnlHaG5mOERCX0VISDRo?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "source": "リセマム"
-        },
-        {
-          "title": "【人気特集】中央大学法学部の都心移転は正解だったのか？「MARCHダブル合格者が選ぶ進学先」最新データが下した答え・JR東日本の財務トップが「巨額買収のターゲット分野」を激白 - ダイヤモンド・オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4ydk8tMS16OTB3d0E2QW8wbW11ZktEcy1lQnNpNlFuQmcwYmRmM21oZ3REcU1LVUVVVzRRdC1XcXpza2MxaG1raHdVTWXSAU9BVV95cUxPR0kwVmU1Rk5sRkhadFdsRktRVkEwVHNYYzU3ZGlQTDRlYkhUdHBfMGEzVEQ4NEVWajhlUVRVc2hRZVUtdjc5ZGd4UnJ5STVJ?oc=5",
-          "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-          "source": "ダイヤモンド・オンライン"
+          "title": "２０２７年度私立大学入試 慶應経済で小論文休止、中央大学はスポーツ情報学部新設 - 月刊私塾界",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HX1R0UGVIUEJ1dXRqRFZ6b2FJZm9fRmE3c1BRS3EzUmtlR3JDOGhCcUlNZDJ0WlBBbllpRlNZWTh4WjFSLXlmRWdrN2FUdnY0Y2c?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 09:00:39 GMT",
+          "source": "月刊私塾界"
         },
         {
           "title": "【中央大入試2026】10学部の入試日程・合格発表日一覧 - 高校生新聞",
@@ -97,13 +85,31 @@
           "source": "高校生新聞"
         },
         {
-          "title": "中央大合格ランク 大宮開成、開智の埼玉勢100人超 立川、厚木、春日部など公立10校 - 産経ニュース",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0Y3ODFMT1YyMnM3d1pnckt2a0lhM1RycFd0U0h0c1hKR2FmUmhlWGtNMDJJaVk1U1lpYUJaTldjcVA4aUExOEJqOHdTdHpaVVdvd1hvZk9HZ2dKaVlGSjFkZGFnZGRwNU5UVi1nTGdQUkpTTm9xVjZWbU5zWkNjWVZmU2xlRmR1c0g3SWpTM0hpbEdIelE?oc=5",
-          "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT",
-          "source": "産経ニュース"
+          "title": "【人気特集】中央大学法学部の都心移転は正解だったのか？「MARCHダブル合格者が選ぶ進学先」最新データが下した答え・JR東日本の財務トップが「巨額買収のターゲット分野」を激白 - ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4ydk8tMS16OTB3d0E2QW8wbW11ZktEcy1lQnNpNlFuQmcwYmRmM21oZ3REcU1LVUVVVzRRdC1XcXpza2MxaG1raHdVTWXSAU9BVV95cUxPR0kwVmU1Rk5sRkhadFdsRktRVkEwVHNYYzU3ZGlQTDRlYkhUdHBfMGEzVEQ4NEVWajhlUVRVc2hRZVUtdjc5ZGd4UnJ5STVJ?oc=5",
+          "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+          "source": "ダイヤモンド・オンライン"
+        },
+        {
+          "title": "【大学受験2028】早稲田・中央など私立大の入試変更点一覧 - リセマム",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlYTVuMFN4SHVrMVRmREd4SGpGSWNHMUZrN2hHN3d6eXFNMzg3bHlURm5FYzVMdWUyZ0tSVWJmcUlxaS1GTnJnQlg5QklmcnlHaG5mOERCX0VISDRo?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+          "source": "リセマム"
+        },
+        {
+          "title": "中央大学の予想ボーダーライン公表 学部別一覧、共通テスト2026 - 福井新聞社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nN19Ua3M4anIxSGJsbjlTaGhsLVl2MUdfS1NodE5qOEtDOWd4WWtydjBiNmpsR3NrUE55UTV2V1RmVEp3Vkwyc1dKTG9WZ0o0dk5WNEZhaXNmeVVBd3c?oc=5",
+          "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+          "source": "福井新聞社"
         }
       ],
       "中央大学 研究": [
+        {
+          "title": "国際情報学部と国際情報研究科の学生がNBiS-2026とWSSM-2026で発表 | - 中央大学",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXcWc3VFNCbkIxcW5BVXd4cUZrS3pfNUFsbkZHdVJGQVZoVHNFSk5rLVZoN0dpUDBPZlNJT1lEdC1FV05hVHZEUGFVcEkzVWdBamhGNHdHY1BRVmQ2aWdnUFV4ZWF1cGNMUy1TTlpuQ1p0Z2podkFn?oc=5",
+          "pubDate": "Wed, 07 Oct 2026 07:13:04 GMT",
+          "source": "中央大学"
+        },
         {
           "title": "ノーベル化学賞受賞記念 中央大学特別講演会「発見の軌跡― 最初のMOFから柔軟性の誕生、そして未来まで」 - 中央大学",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03ekxxcTl4TlVfdkxobTVIeWw4Qzh4X3RwSnQxOFRYVFlVR2JTcnFsdnZidWdmMkFUNUZQUEVCelFMUXE3VmVYekZTR2dWT0ItYWxVaF84VTV5MTJNVDBGVi01QXQ?oc=5",
@@ -111,15 +117,15 @@
           "source": "中央大学"
         },
         {
-          "title": "【実施報告】ノーベル化学賞受賞記念 中央大学特別講演会「発見の軌跡― 最初のMOFから柔軟性の誕生、そして未来まで」を開催（2026/9/10） - 中央大学",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kdXFrajN6NUY4TEd3Nms2bHMxWWdwaVhhd0JOWkJucWdMMUpRTzgtQlNGc05rb05KTDd1Y2YwanNEUDRLYThqWTVwVlp6NHR4Y04zamhZUF9IZjFQb0xmZzVhTQ?oc=5",
-          "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT",
-          "source": "中央大学"
-        },
-        {
           "title": "中央大学文学部の魅力をさらに深掘り！「文学部限定オープンキャンパス」開催のお知らせ（8/4） | - 中央大学",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15UWFJRHNLakNud0t4NldFQ3hkdkxpdzBsUFg1TzNiem1uMnBvLWFiYmxTSERFNWlYSGM4aUhSVmJhNnRqVWRVSVpWMzI1ZnFLcUpzalV4Ync5YjJ4anlHN21zZ3FFZ2xhVHIxclVSQ3Rwcnk2TlpDNnpQRTVFZw?oc=5",
           "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+          "source": "中央大学"
+        },
+        {
+          "title": "【実施報告】ノーベル化学賞受賞記念 中央大学特別講演会「発見の軌跡― 最初のMOFから柔軟性の誕生、そして未来まで」を開催（2026/9/10） - 中央大学",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kdXFrajN6NUY4TEd3Nms2bHMxWWdwaVhhd0JOWkJucWdMMUpRTzgtQlNGc05rb05KTDd1Y2YwanNEUDRLYThqWTVwVlp6NHR4Y04zamhZUF9IZjFQb0xmZzVhTQ?oc=5",
+          "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT",
           "source": "中央大学"
         },
         {
@@ -145,45 +151,39 @@
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5raFBqUTZhUVB4ZXhkZVVzWXBvVmxfbWg3T21wWDNLcEhyNkk5NnBQUGpMVjhzS2xNTG44alIzNlZrV1V0Q0wyejZTM3hBaGdDcndNRXZNaGMydDhuUUdaOUVNSQ?oc=5",
           "pubDate": "Thu, 12 Feb 2026 08:00:00 GMT",
           "source": "中央大学"
-        },
-        {
-          "title": "国際情報研究科の学生が情報処理学会研究会で発表を行いました | - 中央大学",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wMlBlcVZPZ2RoOGxvaURQSEM0QWdFMGNnemhfaDluZlZBblBkOGIyb01SOW1td3Q0MjNTalB2cHh6ZDB0WDFJMFJEUnJEemFfVzhxb0I5Snk4WG9qWmhKZ1hPb1FyMXYyd012bGNGSW1oS3RNXzF2M1JaUWhJQQ?oc=5",
-          "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
-          "source": "中央大学"
         }
       ]
     },
     "部活・スポーツ": {
       "中央大学 箱根駅伝": [
         {
+          "title": "中央大学・藤原正和監督「うまく仕上げてやれなかったこちらの技量のなさ」優勝狙うも5位に終わる【出雲駅伝レース後取材】 - 文化放送",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veTd1b0JJaldZQnVKOUVoM3ZwTU1LNnlXbDVLdEl2MVd0OEVCVmJqbFc0cDkyMTljMDJwT0RxU00zSlo2SWdVZlVEdFR5OFFPcENmdFRB?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 08:11:28 GMT",
+          "source": "文化放送"
+        },
+        {
+          "title": "出雲駅伝2026丨結果速報・順位・区間賞・成績一覧 - Olympics",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3pxOXJNQWdLY0R4TkJBZlFMajRDTFlhVHFzZkwzaUNUMEdnbFA1cm9tZHJzYllxODVxTmxpeTVUeXdKSmh4Q3NrdUplcHhZS1JXTnhjVWpnTVZhSGJsYUdpbml5clR5Ny1QWEkzNG1OSU9KbjgtZXRhckIwVDJfTW9nbE9OU0hJcFNNcDdkLVZybE9zQVIyTHBMbXB6T285cC1xeQ?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 10:05:00 GMT",
+          "source": "Olympics"
+        },
+        {
+          "title": "陸上・駅伝 - 中央大学・藤田大智主将 前回の伊勢路後に固まった覚悟、駅伝優勝のカギは「単独走」 - 4years",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50Q0NoY2llWXoxYk82Nkg3MEhQd3ZZWDBzOERtNGVJeTh2RWVXSGxkalNfaTdzajh5OG1ZdXpYNW5ZdDNwNHJCNUI1cmpPU0dYWTJz?oc=5",
+          "pubDate": "Sat, 10 Oct 2026 05:51:11 GMT",
+          "source": "4years"
+        },
+        {
           "title": "箱根駅伝で総合優勝するために…カギは復路の「単独走」 個性派集団を束ねる中央大学主将が語った手応え（4years.） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tWmsya1JXVkRiLU8tdUtLRVRYVmppR2VPYnZUbi1nRFV4bUZZUG9KYTk5d193c1pvS0o1NGE2LTNFVTk4STJ3MmFhb2J4bkd0bW9pdFFiVUpmR2lXTXRSQWU3OGRKM0d6RUxnNDU2b1ZYRm95Z19UNDlQeVhHYnM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1pGeE5QU1g4TWZjWVVScXFPTnY2NHVqa1VETGhRUEV6bHNSbHNCYzdtcnhNWjcxcUItODd1LXJwZFE3N3VOa0dxVmdNVC01amlBMXp3cWFxY1dJdjMtTzBIWFJqbGJpNkZYclhIZUpzRlcwc0xvMVE1UXQtN21YTjN3bkFqSG5M?oc=5",
           "pubDate": "Sat, 10 Oct 2026 03:19:20 GMT",
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "出雲駅伝２０２６、エントリー確定…スタートを前に区間変更 - 読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRmhPdEcwNEVSLTNEUmNxOTZ2RUFaQ2dZRG1mSGpFU0p6UERNaE45N0Nzc0RrRjNDNXB5WFF3SlB1RzhJUG81Wmk3ekdGRklOeFQ5R0o4SzA0Q3VEc1JmRjFBdktWRnBQek9DTWphdWZId1JraVE?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 21:00:48 GMT",
-          "source": "読売新聞"
-        },
-        {
-          "title": "「目標は優勝です」中央大学・藤原監督「3区三宅に期待していただければ」【出雲駅伝前日会見】 - 文化放送",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5adEJNU3JoaVlncVBLWG5ISFd2ak9TRDBLVXdyMTNJckdBNGJfSUltNXRfYThDeEV2Q1pEWkFxNFhXa0Y5bmI2N0cwM2IzcUhvdkU2TTRB?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 18:35:50 GMT",
-          "source": "文化放送"
-        },
-        {
-          "title": "陸上・駅伝 - 出雲駅伝区間のエントリー確定 関東勢 國學院は4区野中、駒澤は3区植阪・5区池谷 - 4years",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPUnA4bC12ME1DbnQtUkx0YlpEa3E1S0Iwd1BWVE95a0JtT3dHbW1tR1JRdU92RWxMRHQ2enhuY05XR0FEWXBnbzdUSzhFSG9xc1FR?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 22:55:05 GMT",
-          "source": "4years"
-        },
-        {
-          "title": "【出雲駅伝】スタート時間早まりさらなる高速レースへ？ 國學院大は3連覇狙う 早稲田大＆中央大は強力ルーキーを配置 箱根王者・青山学院大は2018年以来のV奪還目指す （2026年10月11日掲載） - 日テレNEWS NNN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qWVo2ZDBaTFpOYWVmTW1rd3pHcEc0RFd1RHI5ZzJuWkhYNG9LYXFfdWdsem5RWHNDdER1SFZwRU1kdTA2dWtuMXd6RjcySGlzdl9jc1ZFeko3QXJkV3VQY28tQ3BSa2h6aC1FWmJIWmo4aWVUSWFvRWY2Yw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 20:55:00 GMT",
+          "title": "出雲駅伝は“超記録ラッシュ” 16年ぶりV早大から上位7チームが大会記録上回る 区間新記録も続出 開始時間変更も影響か - 日テレNEWS NNN",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Gck14TVNacmhpbE01UnBpTkZUWUsxWnJxM01MUzJkM3hfN1VRcWlVX0VWVEo5Zm9zTm5KQWZJMUVYZHZBQ3VrZFFRalQ1ZVN3ZF9rQWo5OGp2cko4cDNZdVc1WVBlZmkzRWdHRk5lMGF3bE1lOGktOE5HOA?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 05:00:00 GMT",
           "source": "日テレNEWS NNN"
         },
         {
@@ -199,10 +199,10 @@
           "source": "文化放送"
         },
         {
-          "title": "【駅伝順位予想】識者が占う出雲駅伝のトップ５ スピードランナーがそろった大本命・早稲田大を脅かすチームはあるのか - webスポルティーバ",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nM1dkS1pmTVFwakVWWUthbzJpZWNpLVlEWHVvUTZDS0kxbVZwZk53SDFWTldhUDExSEVjQWpEdWRMVm9xYm5JcEFHZl9wWG9fdXRwV09fRDB2RU85NGZ3eGZPSzZ2NkNYT21hQzN0WjVrcFpXSGVvRGdiT0xlVUE?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 22:34:20 GMT",
-          "source": "webスポルティーバ"
+          "title": "出雲駅伝２０２６、エントリー確定…スタートを前に区間変更 - 読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRmhPdEcwNEVSLTNEUmNxOTZ2RUFaQ2dZRG1mSGpFU0p6UERNaE45N0Nzc0RrRjNDNXB5WFF3SlB1RzhJUG81Wmk3ekdGRklOeFQ5R0o4SzA0Q3VEc1JmRjFBdktWRnBQek9DTWphdWZId1JraVE?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 21:00:48 GMT",
+          "source": "読売新聞"
         }
       ],
       "中央大学 サッカー部": [
@@ -219,16 +219,16 @@
           "source": "スポーツナビ"
         },
         {
-          "title": "【珍回答連発】中央大学サッカー部「頭NO王」は誰だ！？一般組vsスポーツ推薦組 - YouTube",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBua3lwemZ2TzBnUm1sNHVqNHlwM05JakZZX00zdGRyVWg4OFFXc3VCRTFGRGhBTHlfa2dCWGJZdzN2cTgtZDNRVm1nckRaZ2lEc2VHRkFDUUJNZElj?oc=5",
-          "pubDate": "Wed, 30 Sep 2026 06:48:21 GMT",
-          "source": "YouTube"
-        },
-        {
           "title": "2026年度 第50回 総理大臣杯全日本大学サッカートーナメント - JFA",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kM0taVE9tQjRHM3QybWpxdHVNTnVmRDdwbUNvbjZNU1BYTFdIRk1KVTc0aGd3UnVPeUZMTlRaUXJ5MGFHSW1QQkx4bmV5c0lpZW50WkY0V05UUHlLQlpmTGk1VWQ1ZFBfQUp2YTVyLXhCQTRLaHc?oc=5",
           "pubDate": "Wed, 05 Aug 2026 14:38:42 GMT",
           "source": "JFA"
+        },
+        {
+          "title": "【珍回答連発】中央大学サッカー部「頭NO王」は誰だ！？一般組vsスポーツ推薦組 - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBua3lwemZ2TzBnUm1sNHVqNHlwM05JakZZX00zdGRyVWg4OFFXc3VCRTFGRGhBTHlfa2dCWGJZdzN2cTgtZDNRVm1nckRaZ2lEc2VHRkFDUUJNZElj?oc=5",
+          "pubDate": "Wed, 30 Sep 2026 06:48:21 GMT",
+          "source": "YouTube"
         },
         {
           "title": "サッカー総理大臣杯開幕 サッカー部男子が中央大学を２‐１で降し２回戦進出 - 大阪体育大学",
@@ -243,19 +243,25 @@
           "source": "au Webポータル"
         },
         {
+          "title": "中央大学サッカー部より西村湧志選手加入のお知らせ - 株式会社Criacao",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01ZVRUT29MYnQzSzZ5OFFFRFlYaDc4UDBDMFR4Qm8wVnVQbWVibHdTNXhKVWt5anpyNFRldDl2SGU5X1FSbWZQOGZ5ZVJMR0U2Z2xJbjJNWnA?oc=5",
+          "pubDate": "Tue, 17 Feb 2026 08:00:00 GMT",
+          "source": "株式会社Criacao"
+        },
+        {
           "title": "FIFAワールドカップ 卒業生の渡辺剛選手がサムライブルー（日本代表）に選出 | - 中央大学",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yM2xRRFRweEJMUHIxaGdhOUZ5a1g2eFJERFRBRmd1MS04aUplQnpiYW5JVFJTUHM1NmpsY1hDSWJTdUJIRUw4TzZyN1BmcnRvRzJ6aVA0cXIzUjhoRVZnWC11QVhEbXNEN1hsNVBNWGpEd2pMaUpvUF9CNA?oc=5",
           "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
           "source": "中央大学"
-        },
-        {
-          "title": "《マッチレポート更新》【1部・第9節】中央大学首位陥落す！ 直接対決を制した国士舘大学が首位を奪取!! - スポーツナビ",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rMDNER0ZkRnBURVR1R2ozQ1QtNWRzTmxDdDNIakk3QVJRUkRPX0RHU2x5YVpFaEJkUS1xT0hNQ3o3bHNpWEhYdG41VTNhczMxU1ptRGRfZk5PTm5vSTdNTDNyRnZzUXlablFfLXBhbkhoMkk?oc=5",
-          "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-          "source": "スポーツナビ"
         }
       ],
       "中央大学 硬式野球部": [
+        {
+          "title": "優勝を追う中大、残留を懸ける東洋大―互いの執念が交錯する絶対に譲れない決戦の第４節展望「中大スポーツ」新聞部＆「スポトウ」共同執筆 - 中大スポーツWEB",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13bG1IQ0NiUWdJcTVOOGg4SEhOQjhDT3dkMWlMbEluM0lBVExpZnNlZTVkcmcya0hLRUNGMlBHLUxLdEZXZjdKTzVkRW12WGVTbkdPZGowbUhWQXVx?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 11:00:07 GMT",
+          "source": "中大スポーツWEB"
+        },
         {
           "title": "【大学準硬式野球】中央大学に惜敗も日本大学1・2年生の活躍は好材料 - スポーツナビ",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CUFZjOGpNOS1nd3Q4dUlSb1BCZXdjYVkzTE43ZlFNb3N6ZnowQlc0MXFhTWpPWEZGWnVXTkt4ekk1bVRWQl9uWE9NV1UwaHMxOTk0ZU5yc0FxZzBhUG9fSWdYaHFmdXhMRmROVUsxbHk?oc=5",
@@ -269,16 +275,16 @@
           "source": "中央大学"
         },
         {
-          "title": "中央大が新入生25名を公開！桐蔭学園の二遊間、世田谷学園の主将などが入部｜記事一覧 - 高校野球ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKVkZoVjdJck1QTDZMZjFaOGxmZUVmSG1CbHFDWFZMTEt6V1A5TUFwZVd5MDRXemdXTnU0ckdfUVY3dDdWNGd6ajB1bFJLZkJmOVE?oc=5",
-          "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
-          "source": "高校野球ドットコム"
-        },
-        {
           "title": "東都大学野球春季リーグ戦 対中央大学1回戦 | ASIA SPORTS ASIA UNIVERSITY SPORTS SITE - 亜細亜大学",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qdDVmSXY2NVFRd2h6d1NxeVNGMUZ6ZUJ1ZzhPdXg4alpfSUFESlpHZHNGQ0hzcElabnZmYTRaZWJyODQwblFhVkx4QzF1azluU19aY1U0bW5kaHoxa0Y2a3AtMnhidDVuMVR4enlmbGpjeE95ZHBnTw?oc=5",
           "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
           "source": "亜細亜大学"
+        },
+        {
+          "title": "中央大が新入生25名を公開！桐蔭学園の二遊間、世田谷学園の主将などが入部｜記事一覧 - 高校野球ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKVkZoVjdJck1QTDZMZjFaOGxmZUVmSG1CbHFDWFZMTEt6V1A5TUFwZVd5MDRXemdXTnU0ckdfUVY3dDdWNGd6ajB1bFJLZkJmOVE?oc=5",
+          "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
+          "source": "高校野球ドットコム"
         },
         {
           "title": "野球 - 中央大学・佐藤豪 1年目から出場機会をつかみ、学生コーチに転身したラストシーズン - 4years",
@@ -297,12 +303,6 @@
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxS2dxUjZ3X3JpRUFBekxSeTh5SVlBbDRUVG5aNUNCQTRUbDNjcXVTb1RKRDFreFdVRjZGRTN4b1hra3VaZUlBOE5NS1UxQ0N6bTVxLW8wWTloeVNseGkxcFZjNTVQbVFjOXc?oc=5",
           "pubDate": "Sun, 16 Aug 2026 07:00:00 GMT",
           "source": "InterFM"
-        },
-        {
-          "title": "野球部 大量13失点で中央大に大敗 4打数4安打の井櫻は猛アピール《夏季オープン戦》 - 早稲田大学",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmWUlhU2hPNjROTk5iQ0FtTDloeW5zVk1QVDBySm9TWkdlRnVtR2VCTHhDZmljQ21HQnlXd2treDVjeDZpZHI0TEJBVmxBNDVaWXpKMG5ySnJ2aGV4MXVQeUdmQWQzamhG?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "source": "早稲田大学"
         }
       ],
       "中央大学 陸上競技部": [
@@ -325,16 +325,16 @@
           "source": "久留米市 ホームページ"
         },
         {
-          "title": "飛島ＨＤ／中央大学陸上競技部の駅伝ウエアにロゴ／支援団体とスポンサー契約 - 千葉テレビ放送",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kcG1CN3pPSzhfNGFsOVU0TFdNQXNjWU9IeWpxZl92TWkxbmZERGpHRG9uRUtNdUJZaWYzdU5GOW5jendMQjg1am9wRjlSOXZNaTRNM0ZkYW9wNklKdnRZ?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 21:07:19 GMT",
-          "source": "千葉テレビ放送"
+          "title": "陸上・駅伝 - 中大記録会で3000m7分台が続出！岡田開成選手、三宅悠斗選手らが快走！ - 4years",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zcVhsY2RROVpMYUk0STN5SlEtNHg1VXk1bm12Z2ZMeVFHV1UtLXNKVUdjY1FYdkcyb0dUMk9JNDlEM1FwTUxaeU95Z2VuXzR3WVBn?oc=5",
+          "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "source": "4years"
         },
         {
-          "title": "陸上・駅伝 - 中央大学・藤田大智主将 前回の伊勢路後に固まった覚悟、駅伝優勝のカギは「単独走」 - 4years",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50Q0NoY2llWXoxYk82Nkg3MEhQd3ZZWDBzOERtNGVJeTh2RWVXSGxkalNfaTdzajh5OG1ZdXpYNW5ZdDNwNHJCNUI1cmpPU0dYWTJz?oc=5",
-          "pubDate": "Sat, 10 Oct 2026 05:51:11 GMT",
-          "source": "4years"
+          "title": "飛島ＨＤ／中央大学陸上競技部の駅伝ウエアにロゴ／支援団体とスポンサー契約 - 千葉テレビ放送株式会社",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kcG1CN3pPSzhfNGFsOVU0TFdNQXNjWU9IeWpxZl92TWkxbmZERGpHRG9uRUtNdUJZaWYzdU5GOW5jendMQjg1am9wRjlSOXZNaTRNM0ZkYW9wNklKdnRZ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 21:07:19 GMT",
+          "source": "千葉テレビ放送株式会社"
         },
         {
           "title": "中央大学駅伝強化プロジェクト ～15回目の箱根総合優勝を目指して～ - クラウドファンディング - READYFOR",
@@ -343,38 +343,44 @@
           "source": "クラウドファンディング - READYFOR"
         },
         {
-          "title": "ロジネットジャパン、学生スポーツ5団体に協賛 - LOGISTICS TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sa1RWMlZVQ1AzZXRoYTJkb25mQzBDeWYtd1otaUJieC1YU1ZZaEx4ckI5X3htN0tEblBiVGFweHpsT1JiMGt2eE9B?oc=5",
-          "pubDate": "Tue, 06 Oct 2026 23:40:06 GMT",
-          "source": "LOGISTICS TODAY"
-        },
-        {
           "title": "駅伝強化のクラウドファンディングを開始しました～温かいご支援をお願いいたします～ | - 中央大学",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOLWVWbndWai02QVFqUHR0RUg3Y0c5T1R6SzlrR1RJTG1JSjB2V182bmc1aE10cl9kWnZGQ3JrS1AyejFlaHBQbFpkY21FYXVra190NXlaUE1fcUE2SGRwQ3JlOEdFUEZwb2pNSl9sZndpdC1kcjl5RnNvdw?oc=5",
           "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
           "source": "中央大学"
+        },
+        {
+          "title": "ロジネットジャパン、学生スポーツ5団体に協賛 - LOGISTICS TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sa1RWMlZVQ1AzZXRoYTJkb25mQzBDeWYtd1otaUJieC1YU1ZZaEx4ckI5X3htN0tEblBiVGFweHpsT1JiMGt2eE9B?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 23:40:06 GMT",
+          "source": "LOGISTICS TODAY"
         }
       ]
     },
     "OB・プロ選手": {
       "牧秀悟": [
         {
-          "title": "【DeNA】牧秀悟「いままでになかったベイスターズという形でもある」連勝でファイナル進出（日刊スポーツ） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56TnBLTDBsVHRMdWtrT1J2aHZyTGp5ai0yVEktLXFzQjRYZG9wa1RJdVBVWnlSWWhxYXRsRHhvNGs1NGpBZFpYTkZsQklreUtiUWJvQlV5MnNnSk5KcjJRNUdYYl9VcXRPUXdoWk4zNGl1TW9od1Z4TTdLWlFJVEU?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 10:30:28 GMT",
+          "title": "今季30発DeNA牧秀悟、阪神撃破へ「いい準備を」打撃改造後押しした「皮肉」な1カ月 - 産経ニュース",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHZUOGtqakFycDlET29mZDlFMENpd3dKSHhFMzUzd2lDZXdRSkRkNzhOVW54S2F1UnBOckQ3aGlxQ2JNMVRxMUVuSGxfNUl4Z0prSV9ONkw2Wi01MUV5VEdBMUdiNXVlMlBrd1Z5YmtwUzIxVFZlSGFORG93V25KR015MzVENjE3R1BVXw?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 11:30:56 GMT",
+          "source": "産経ニュース"
+        },
+        {
+          "title": "阪神に忍び寄る「2024年下克上」の悪夢…牧秀悟らDeNA強力打線は甲子園でも虎を上回る得点力 - 日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11OFdPYlY4aWJndEc1VUZ4ZWVldTd0UzQzdjBILS1fbFAtWnZ0WTNzbmExTkdhUGxQNHJBUWxTSzcwMGRBbW9sbXNhaUxuS1h2YXZsamRxSUJCTnJuV2VlVE5fS25taU8w?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 02:00:00 GMT",
+          "source": "日刊ゲンダイDIGITAL"
+        },
+        {
+          "title": "阪神に忍び寄る「2024年下克上」の悪夢…牧秀悟らDeNA強力打線は甲子園でも虎を上回る得点力｜Infoseekニュース - Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UN1hTbW1YR1VvcWNjXzVVNko4OEJMZUY2TENhWl9hU2RybzQzcjZiQm5TRVBqcDI3OUVFdzZfa1hzeklWVDRHYzFtaGNMMGMxUGZOSDNOZm00ZTd4d2ZkZ09sQjE?oc=5",
+          "pubDate": "Tue, 13 Oct 2026 02:12:00 GMT",
+          "source": "Infoseek"
+        },
+        {
+          "title": "牧秀悟選手が2戦連発のホームラン DeNAは2連勝でファーストステージを「下剋上突破」 阪神とのファイナルステージは10月14日から (NBS長野放送) - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEtnemlIUGgtVUlwWjRORFo3TDJDTVY0RHA3bjRxSXhBMFR2enR2bVRTQWhONTF1LUJCbXlSRHE3dWVJUnNWRXBJRFl1MXY2eFpwNnRQRnRtNVFyVXBSOENKVDlVM0tLWlVxdVVBZ0xqVl9FMVFab1lLaXJpR1pWZUs3N3d3VHV0ekZ4bjFn?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 09:08:01 GMT",
           "source": "Yahoo!ニュース"
-        },
-        {
-          "title": "DeNA・牧秀悟「ケガもありながら30本に到達できたのは、一つの自信になります」／30本塁打 | 野球コラム - 週刊ベースボールONLINE - 週刊ベースボールONLINE",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3JYSnpPLTlSUUE3Wmx5ZHNOMXVISEpvM3dwaXF3N3UxS3FMWUdCZVY5Q21zbE83akVZR3FnOU0xU3p3dFRkcFZUZ09NS0dnR1JSczdHU2tUajJ6QWk4aTlOZVdmNTVhcnp1T3ZDWkFYZ2hpdTlReUhla1BQd19KUmx4a0NlQdIBiwFBVV95cUxNRG5mYzBQdWVCS2ktSklnTExDOUh0Y0swTEVTakUwWnAwV1BMUTJmZjFWN3JUSS1peEYtTW9YSVNGb0V2ZUwzYXpwNGlsenVFMm5hdDVGaHg3MU1XQU4xX0J6UFNtd3pjMWRLbzFScG1wQks1UHN2Xy1ZSnlSR2k5ZWh4VFlIallsR2gw?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 03:00:00 GMT",
-          "source": "週刊ベースボールONLINE"
-        },
-        {
-          "title": "DeNA・度会隆輝＆牧秀悟、セ初！アベック2戦連発　3年連続巨人粉砕！CSファイナルS進出 - サンスポ",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50U3B3LWFCYW9oU1hyR05xcXpCY3RyN3pUczZKMzdMTWt4WEROLUZ3WlJDZHo5QVN0VGdCdVdrWWxhMmY0VGpYRi1IeUg1UWEzaE1qMGZVY00xVTctTTVQcTI2NUEyM1lSSUhhcHN2d2tiOTc5d3fSAYoBQVVfeXFMTU9qMjJrMlFSU3FtSUxXckJzZVNPWXMyQTAySGhtMlFNbjRqd0RuMlo4emtyWFZpMzFKMkpFYWZqbHNDd3h4SkFUNFhlbnJ2dXloVkc1bzhUNWtOZ0g1U01qRXdSUDQ0emY4Z3pQbjZESXNEN0cyaWZDVmNjaUpvRDRaVThNZHpWRkFR?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 20:00:01 GMT",
-          "source": "サンスポ"
         },
         {
           "title": "DeNA・牧秀悟、阪神との決戦へ勢いつける2戦連発「いいアピールじゃないですけど嫌な印象を与えられたと思います」 - Yahoo!ニュース",
@@ -383,31 +389,31 @@
           "source": "Yahoo!ニュース"
         },
         {
-          "title": "【DeNA】牧秀悟が２戦連続ソロで追加点「さらに勢いを」度会隆輝と２試合連続アベックアーチ - 日刊スポーツ",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXBNX2RCUExkUVhGbkVjT0FxS0I2NFdkNEt5R0daeDRGS1JzbUtUT3ljZ2ZJQkNQUDhYLVg5OFZZZ1BFMC11TndzMXN3QkVoOUc1dy1haWlBa3JJb2h4Q0w4OGoyeEctVTV1U1cyaG9vUGpYTFhKY3RnZUtIS1B5eEJleWhGTGJ0NzRYbDU5OA?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 07:46:58 GMT",
-          "source": "日刊スポーツ"
+          "title": "「この勢いで甲子園いくのやばい」高まる“下剋上”の機運！ DeNA主砲・牧秀悟の2戦連発に「今年もあるぞこれは」 - ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jdFlwLWJxVUxyVFNsRkJZQUc0SFB0T1c5T0xqLWtvUkE0YWJERnJqX2pFV3RMTXJJczlJeG5mOEZuaHMzNEdwdTM1aFY2LTR3RTR1dVZMX0VldV9qQTFIb1NzWEtFUFNCZWxrbzlDcVBVZXM?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 02:36:12 GMT",
+          "source": "ニコニコニュース"
         },
         {
-          "title": "「きたああああああ！！！ デスターシャ」 DeNA・牧秀悟、CSファイナル近づく2号ソロにベイスターズファン歓喜 「2試合連続ホームランはすごい」 - 中日新聞Web",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTy1xcFFfY0xJTHA2Ym0tSUY1Q0ZFZ24zcnRKSUl0LUg3Y0MxS1lVaUJBR2lDaUJyVEY4NFhiODctd2FLLW9hWFNxMjFIQWhFaXlxRA?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 07:55:56 GMT",
-          "source": "中日新聞Web"
+          "title": "中野市出身の牧秀悟選手が試合を決める！ クライマックスシリーズで2戦連発の本塁打 ハマの主砲の一打で横浜DeNAがファイナルステージへ 14日から日本シリーズ進出を懸けてファイナルステージで阪神と対戦【長野】（2026年10月12日掲載） - 日テレNEWS NNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcndSaTNlX0liS2JpYkVRdkNmZENRWWgtVk45RUVQMGRmU3BVYi1PeS1IWlF0NUtDcnIxSXM0anppdDMtRWZtVXMzTlpLcVdHRGpTQVJldnpMMlQyVVYwR0EzQXJZUEU2MUxpMUt4STdBQXhXLVRGNFpuT0ZzTGNLUURTREtEZw?oc=5",
+          "pubDate": "Mon, 12 Oct 2026 08:57:00 GMT",
+          "source": "日テレNEWS NNN"
         },
         {
-          "title": "【ＤｅＮＡ】牧秀悟が止まらない！「終盤の良いところで打つことができて嬉しいです！」 度会隆輝に続き２日連続弾 - スポーツ報知",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNjRQZU15OWx3M2JNZHA2eWtWX3ZkMDk3alRiNlNISWJuUW9peW14Y0p6YmZIcVFoMC0ybkNFU1FhZjBWa3JVc3JCODZsQnlac2FzX1FpMTZwcTRPRk12SDFR?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 07:41:00 GMT",
-          "source": "スポーツ報知"
-        },
-        {
-          "title": "【DeNA】度会隆輝と牧秀悟が2試合連発、2連勝で阪神の待つファイナルステージへ｜プロ野球結果（DAZN News） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93ZXBoMnJMd1lvM241bUpHaHpHR0pidXFLMVZzbTlNMWhoWU54VVJHQ2wxZjJXUDB3N1FpdXhzQWdaN1p5UFp1a2hPdGFrZUtZTjVJbV9ydXJXa2ZvMVNBekZnalFrNDAwdDlLYm1oUHJROHhIM083MXQ5SWFkME0?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 09:15:31 GMT",
-          "source": "Yahoo!ニュース"
+          "title": "「そんな態度取るな！」森下を牧が厳しく叱った理由 恩師が明かす中大伝統の“スター育成術” - スポーツナビ",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VMjVKN0dlQUJEODd1M01CbkNXalNaTFZsckJxZnZFN0xIR2dncWplcFJlSzh1NUJVNHQzUTJwNHg2M3BOYWpxRno0cVIzdElKbGNzbWVSSzJwdk9BR05qbVlfNll6WmctVHdFN25n?oc=5",
+          "pubDate": "Sun, 11 Oct 2026 01:00:00 GMT",
+          "source": "スポーツナビ"
         }
       ],
       "渡辺剛": [
+        {
+          "title": "日本代表から渡辺剛もケガで離脱、町田の望月ヘンリー海輝を追加招集 - サッカーキング",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2ZrSlM1a1lZNTZCTXpKZDltUHlfWXMxa01NRXlCUG9WWGJBLTVza3lGTVdUemxXMW1TQlZ6cGtKRzVLc0NWbmM1X3J6UXhnV3NrRE1mTThDQXpsRzBXYnVXX0w1dWpRcTBoUHo5Tnc2Y0owcWZj?oc=5",
+          "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+          "source": "サッカーキング"
+        },
         {
           "title": "【渡辺剛】フェイエノールト｜2026年試合日程・キックオフ時間・テレビ放送/ネット配信予定 - Goal.com",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVRyN1Z4NGZDNEZDYzZFcWRCeVlEZFhMLXZjUDU4dWJtYmZLRUxKbTNuYVV1VXFCVlRaNmRZTDFraUp1Z25wSF96Q25aelRCdGNSb0dVQ1YtVEZVUWUzMW5laVM4OWF5ejRGMmpERVVUUC15LTRhbzEwQzJtbmZYSEJGajlQQUY4bERjLUVBU19pdDF2NG9ESnFDWjM0OVJteFhxcElteXBnZ1lXOURXTWNKVi1CNU9Sa29QSA?oc=5",
@@ -421,34 +427,28 @@
           "source": "Football Tribe"
         },
         {
+          "title": "サッカー日本代表、渡辺剛・熊坂光希・鈴木淳之介が試合後に病院へ。検査結果次第で追加招集へ（フットボールチャンネル） - Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUUNDOHlpd29RWVlMdnotSUkyNnRrc3RGYVhSMzdvT1M2NnRXV2Rzd0tOeTRPU2dPQ1BOajBXNW5oSXlibTI4XzU3bnBaSzlkbUMtRzR0MDBZTUJvSmRnMm80a2kzclEzcExBRGtqdjJ6WWhjYWxtdlNTOUhRNVU?oc=5",
+          "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "日本代表活動で負傷…板倉滉、渡辺剛、安藤智哉の最新情報が判明 「時間との戦い」「彼だけなのは幸い」「最悪の事態回避」 - ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVZIX01neHZlRnVjRnZVRFo4RDlhVTlOUmptMkJZSzFGNERaUmpSSXZGQ3pxXzk4bFVaU1VDd3FtcHJ0MEh2Z2VPT2QzcUxLQVI0NUxhQ0lNU0pjSmJLVlZZSlVPUy1rMDBXNlFzSmdabUdpMmp3eE1DYzB1aVdmTzhjaUwxbExRd1MxQ3RDWjhBLUFWcXczNkNGQ25FS1oyVllraFR2TdIBowFBVV95cUxQTlBvNzZlc0JyRS1UWFIxVzV5S055a29VTU5DbVVvRnVCWkpGUEYwdS0xVDZLQ256ZFFPSVF6eWZjbGM0bU9KT0ZpQms0WVQtcmlDbWZ6WmhpZUNuTEthRVk2b2FiTXNSN2x5MVl4RGxBNHd4aGZKNExxaXZzRUJ0UDhVbHhjdHBYVzMzU29HOEtQT3RjWHhtRzhpa3NGZTliVmRZ?oc=5",
+          "pubDate": "Fri, 09 Oct 2026 23:30:00 GMT",
+          "source": "ｄメニューニュース"
+        },
+        {
           "title": "首位攻防戦を欠場の渡辺剛はUEFAチャンピオンズリーグで復帰か！「予想している」 - 千葉テレビ放送",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lOWhXbWxWTHZPdHlxb2NoSkxKM09Fc2MxUzRQU0VaZ1Q2Z09Udkw4Mk5kOVNmWExqaW90OVJDUzhadVFFWXM4VjJDYk02OVBXUGFuTW42b2RQQjE4RTcw?oc=5",
           "pubDate": "Sun, 11 Oct 2026 09:59:28 GMT",
           "source": "千葉テレビ放送"
         },
         {
-          "title": "日本代表から渡辺剛もケガで離脱、町田の望月ヘンリー海輝を追加招集 - サッカーキング",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2ZrSlM1a1lZNTZCTXpKZDltUHlfWXMxa01NRXlCUG9WWGJBLTVza3lGTVdUemxXMW1TQlZ6cGtKRzVLc0NWbmM1X3J6UXhnV3NrRE1mTThDQXpsRzBXYnVXX0w1dWpRcTBoUHo5Tnc2Y0owcWZj?oc=5",
+          "title": "日本代表に町田DF望月ヘンリー海輝を追加招集!! 渡辺剛が負傷離脱 - ゲキサカ",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4b0ZhcjY0VWtzejkxV3ZFUzRpVUJEZVJ1QVJrZENDNzZtcXdkT0ZSZWtqUU94d3ljN19lRnpJVmgtVDFwSS01M3JlUE1jUjlHWkNpV2t5bWRXajl5b3JqOWhzaW5COEJhWmtN?oc=5",
           "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
-          "source": "サッカーキング"
-        },
-        {
-          "title": "首位攻防戦を欠場の渡辺剛はUEFAチャンピオンズリーグで復帰か！「予想している」 - au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNSGZhbHIzR21zNnNFMDNEQ1VLRUh0SWpTX3VyWlVvTXN6NmFzcHAyY2VHekZtamFLSnRZNF9Fb3dQX2p6cTJVZWNydTlJUG1uaURhWXZwbDBvMjBsaHRWV0FHbVdPSmF2Z0lEVW5kRk1FY1ZhQTFGZA?oc=5",
-          "pubDate": "Sun, 11 Oct 2026 09:51:00 GMT",
-          "source": "au Webポータル"
-        },
-        {
-          "title": "日本代表活動で負傷…板倉滉、渡辺剛、安藤智哉の最新情報が判明 「時間との戦い」「彼だけなのは幸い」「最悪の事態回避」 - ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlBvNzZlc0JyRS1UWFIxVzV5S055a29VTU5DbVVvRnVCWkpGUEYwdS0xVDZLQ256ZFFPSVF6eWZjbGM0bU9KT0ZpQms0WVQtcmlDbWZ6WmhpZUNuTEthRVk2b2FiTXNSN2x5MVl4RGxBNHd4aGZKNExxaXZzRUJ0UDhVbHhjdHBYVzMzU29HOEtQT3RjWHhtRzhpa3NGZTliVmRZ0gGjAUFVX3lxTFBOUG83NmVzQnJFLVRYUjFXNXlLTnlrb1VNTkNtVW9GdUJaSkZQRjB1LTFUNktDbnpkUU9JUXp5ZmNsYzRtT0pPRmlCazRZVC1yaUNtZnpaaGllQ25MS2FFWTZvYWJNc1I3bHkxWXhEbEE0d3hoZko0THFpdnNFQnRQOFVseGN0cFhXMzNTb0c4S1BPdGNYeG1HOGlrc0ZlOWJWZFk?oc=5",
-          "pubDate": "Fri, 09 Oct 2026 23:30:00 GMT",
-          "source": "ｄメニューニュース"
-        },
-        {
-          "title": "サッカー日本代表、渡辺剛・熊坂光希・鈴木淳之介が試合後に病院へ。検査結果次第で追加招集へ（フットボールチャンネル） - Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUUNDOHlpd29RWVlMdnotSUkyNnRrc3RGYVhSMzdvT1M2NnRXV2Rzd0tOeTRPU2dPQ1BOajBXNW5oSXlibTI4XzU3bnBaSzlkbUMtRzR0MDBZTUJvSmRnMm80a2kzclEzcExBRGtqdjJ6WWhjYWxtdlNTOUhRNVU?oc=5",
-          "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-          "source": "Yahoo!ニュース"
+          "source": "ゲキサカ"
         },
         {
           "title": "【W杯代表】渡辺剛（山梨学院→フェイエノールト）高校時代プレー集｜第105回全国高校サッカー選手権大会 - スポーツブル",
